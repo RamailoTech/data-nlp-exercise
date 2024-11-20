@@ -44,7 +44,7 @@ The webpage should have a form which accepts the city name, and preferably shows
 Given these inputs, show the results from Task 3.
 
 ## Instructions to submit your work
-- Do not fork this repo. Work on a local copy, and ensure this is a private repository. Add the username `shashank-srikant` as a collaborator, so that Shashank can access the repo as well.
+- Do not fork this repo. Work on a local copy, and ensure this is a private repository. Add the username `shashank-srikant` and `sachin@ramailo.tech` as a collaborator, so that we can access the repo as well.
 - Make it a habit to push changes upstream to your repo as frequently as feasible.
 - Use `Python3.8+` for this work.
 - We greatly value reproducability of results. Use `conda` to create an environment and set up your repository. 
@@ -55,10 +55,10 @@ Given these inputs, show the results from Task 3.
 - Have a `./tests/` folder to write out unit tests for key functions. Look up the `unittest` package in Python if you haven't used it before. Also, not every function you write needs to be tested---exercise your judgement and prioritize which function you want tested.
 - Keep updating this README with instructions which will help with the reproducability of your work/results.  
 - The topmost section of your readme file should be titled `Approach`. In this section, concisely describe the overeall approach you considered to solve this problem. Describe the general strategy you used, the key tools you considered, the different metrics you considered to evaluate your work, and any other detail relevant to the task goals and the evaluation criteria mentioned above.
-- Communication: Write an email to shashank@mlexperts.ai with the subject "MLE intern evaluation: \[your full name\]". Shashank will acknowledge your email.
+- Communication: Write an email to jobs@mlexperts.ai with the subject "MLE intern evaluation: \[your full name\]". We will acknowledge your email.
 - Please then constantly communicate on the mail thread on how you are approaching the problem, how you are thinking about the solution, progress made, etc. The more updates you share, the more clarity we have on your thought process in solving a problem.
-- This task is expected to take **a maximum of 1 week of your time**. It is possible to write this up in two full days over a weekend. If it is taking you longer, please write to shashank@mlexperts.ai explaining your situation.
+- This task is expected to take **a maximum of 1 week of your time**. It is possible to write this up in two full days over a weekend. If it is taking you longer, please write to jobs@mlexperts.ai explaining your situation.
   
 Focus on getting the core functionality right first, and have a working prototype of your solution.  
-For any questions, write to shashank@mlexperts.ai  
+For any questions, write to jobs@mlexperts.ai  
 All the best!
